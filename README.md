@@ -30,13 +30,13 @@ This project is based on The Odin Project's [landing page assignment](https://ww
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="./images/1.png" alt="Landing Page Section 1" width="800"/>
+  <img src="./images/1A.png" alt="Landing Page Section 1" width="800"/>
   <br><br>
-  <img src="./images/2.png" alt="Landing Page Section 2" width="800"/>
+  <img src="./images/2A.png" alt="Landing Page Section 2" width="800"/>
   <br><br>
-  <img src="./images/3.png" alt="Landing Page Section 3" width="800"/>
+  <img src="./images/3A.png" alt="Landing Page Section 3" width="800"/>
   <br><br>
-  <img src="./images/4.png" alt="Landing Page Section 4" width="800"/>
+  <img src="./images/4A.png" alt="Landing Page Section 4" width="800"/>
 </div>
 
 ## 🚀 Installation

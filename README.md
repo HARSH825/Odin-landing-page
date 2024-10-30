@@ -28,14 +28,16 @@ A landing page implementation created while following The Odin Project's web dev
 ## 🎯 Original Design
 This project is based on The Odin Project's [landing page assignment](https://www.theodinproject.com/lessons/foundations-landing-page).
 
-## 📸 Screenshot
-(./images/1.png)
-
-(./images/2.png)
-
-(./images/3.png)
-
-(./images/4.png)
+## 📸 Screenshots
+<div align="center">
+  <img src="./images/1.png" alt="Landing Page Section 1" width="800"/>
+  <br><br>
+  <img src="./images/2.png" alt="Landing Page Section 2" width="800"/>
+  <br><br>
+  <img src="./images/3.png" alt="Landing Page Section 3" width="800"/>
+  <br><br>
+  <img src="./images/4.png" alt="Landing Page Section 4" width="800"/>
+</div>
 
 ## 🚀 Installation
 1. Clone the repository:

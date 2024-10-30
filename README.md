@@ -7,7 +7,7 @@
 A landing page implementation created while following The Odin Project's web development curriculum. This project demonstrates fundamental web development skills through a clean, modern design.
 
 ## ✨ Features
-- Responsive layout using CSS Flexbox
+- layout using CSS Flexbox
 - Modern hero section design
 - Information cards showcasing key features
 - Quote/testimonial section

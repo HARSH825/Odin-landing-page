@@ -29,8 +29,10 @@ A landing page implementation created while following The Odin Project's web dev
 This project is based on The Odin Project's [landing page assignment](https://www.theodinproject.com/lessons/foundations-landing-page).
 
 ## 📸 Screenshot
-![Project Screenshot](path-to-your-screenshot.png)
-
+![Project Screenshot 1](./images/1.png)
+[Project Screenshot 2](./images/2.png)
+[Project Screenshot 3](./images/3.png)
+[Project Screenshot 4](./images/4.png)
 ## 🚀 Installation
 1. Clone the repository:
 ```bash

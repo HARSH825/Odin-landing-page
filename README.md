@@ -21,8 +21,6 @@ A landing page implementation created while following The Odin Project's web dev
 - Creating responsive designs
 - Following design specifications
 
-## Live Demo
-[View live demo here](your-demo-link)
 
 ## Original Design
-This project is based on The Odin Project's [landing page assignment](link-to-assignment).
+This project is based on The Odin Project's landing page assignment.

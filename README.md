@@ -1,5 +1,5 @@
 # Odin Landing Page Project
-
+Live at (https://harsh825.github.io/Odin-landing-page/)
 A landing page implementation created while following The Odin Project's web development curriculum.
 
 ## Features
